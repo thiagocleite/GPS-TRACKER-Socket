@@ -1,0 +1,149 @@
+E:\Projetos\GPS1Visual\GPS1Visual\bin\Debug\GPS1Visual.exe
+E:\Projetos\GPS1Visual\GPS1Visual\bin\Debug\GPS1Visual.pdb
+E:\Projetos\GPS1Visual\GPS1Visual\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Projetos\GPS1Visual\GPS1Visual\obj\x86\Debug\GPS1Visual.Form1.resources
+E:\Projetos\GPS1Visual\GPS1Visual\obj\x86\Debug\GPS1Visual.Properties.Resources.resources
+E:\Projetos\GPS1Visual\GPS1Visual\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Projetos\GPS1Visual\GPS1Visual\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Projetos\GPS1Visual\GPS1Visual\obj\x86\Debug\GPS1Visual.exe
+E:\Projetos\GPS1Visual\GPS1Visual\obj\x86\Debug\GPS1Visual.pdb
+G:\Projetos\GPS1Visual\GPS1Visual\obj\x86\Debug\GPS1Visual.exe
+G:\Projetos\GPS1Visual\GPS1Visual\obj\x86\Debug\GPS1Visual.pdb
+G:\Projetos\GPS1Visual\GPS1Visual\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Projetos\GPS1Visual\GPS1Visual\obj\x86\Debug\GPS1Visual.Form1.resources
+G:\Projetos\GPS1Visual\GPS1Visual\obj\x86\Debug\GPS1Visual.Properties.Resources.resources
+G:\Projetos\GPS1Visual\GPS1Visual\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Projetos\GPS1Visual\GPS1Visual\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Projetos\GPS1Visual\GPS1Visual\bin\Debug\GPS1Visual.exe
+G:\Projetos\GPS1Visual\GPS1Visual\bin\Debug\GPS1Visual.pdb
+C:\Users\Thiago\Desktop\GPS1Visual\obj\x86\Debug\GPS1Visual.exe
+C:\Users\Thiago\Desktop\GPS1Visual\obj\x86\Debug\GPS1Visual.pdb
+C:\Users\Thiago\Desktop\GPS1Visual\bin\Debug\GPS1Visual.exe
+C:\Users\Thiago\Desktop\GPS1Visual\bin\Debug\GPS1Visual.pdb
+C:\Users\Thiago\Desktop\GPS1Visual\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Thiago\Desktop\GPS1Visual\obj\x86\Debug\GPS1Visual.Form1.resources
+C:\Users\Thiago\Desktop\GPS1Visual\obj\x86\Debug\GPS1Visual.Properties.Resources.resources
+C:\Users\Thiago\Desktop\GPS1Visual\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Thiago\Desktop\GPS1Visual\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Trabalhos\C#\GPS\GPSVisual\GPS1Visual\obj\x86\Debug\GPS1Visual.exe
+D:\Trabalhos\C#\GPS\GPSVisual\GPS1Visual\obj\x86\Debug\GPS1Visual.pdb
+D:\Trabalhos\C#\GPS\GPSVisual\GPS1Visual\bin\Debug\GPS1Visual.exe
+D:\Trabalhos\C#\GPS\GPSVisual\GPS1Visual\bin\Debug\GPS1Visual.pdb
+D:\Trabalhos\C#\GPS\GPSVisual\GPS1Visual\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Trabalhos\C#\GPS\GPSVisual\GPS1Visual\obj\x86\Debug\GPS1Visual.Form1.resources
+D:\Trabalhos\C#\GPS\GPSVisual\GPS1Visual\obj\x86\Debug\GPS1Visual.Properties.Resources.resources
+D:\Trabalhos\C#\GPS\GPSVisual\GPS1Visual\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Trabalhos\C#\GPS\GPSVisual\GPS1Visual\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Trabalhos\C#\GPS\GPSVisual\GPS1Visual\obj\x86\Debug\GPS1Visual.FormMapa.resources
+D:\Trabalhos\C#\GPS\GPSVisual\GPS1Visual\obj\x86\Debug\GPS1Visual.FormCadastro.resources
+C:\Users\Thiago\Desktop\GPSVisual\GPS1Visual\obj\x86\Debug\GPS1Visual.exe
+C:\Users\Thiago\Desktop\GPSVisual\GPS1Visual\obj\x86\Debug\GPS1Visual.pdb
+C:\Users\Thiago\Desktop\GPSVisual\GPS1Visual\bin\Debug\GPS1Visual.exe
+C:\Users\Thiago\Desktop\GPSVisual\GPS1Visual\bin\Debug\GPS1Visual.pdb
+C:\Users\Thiago\Desktop\GPSVisual\GPS1Visual\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Thiago\Desktop\GPSVisual\GPS1Visual\obj\x86\Debug\GPS1Visual.Form1.resources
+C:\Users\Thiago\Desktop\GPSVisual\GPS1Visual\obj\x86\Debug\GPS1Visual.FormCadastro.resources
+C:\Users\Thiago\Desktop\GPSVisual\GPS1Visual\obj\x86\Debug\GPS1Visual.FormMapa.resources
+C:\Users\Thiago\Desktop\GPSVisual\GPS1Visual\obj\x86\Debug\GPS1Visual.FormPesquisaAltera.resources
+C:\Users\Thiago\Desktop\GPSVisual\GPS1Visual\obj\x86\Debug\GPS1Visual.Properties.Resources.resources
+C:\Users\Thiago\Desktop\GPSVisual\GPS1Visual\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Thiago\Desktop\GPSVisual\GPS1Visual\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Thiago\Desktop\GPSVisualComInstaller\GPS1Visual\obj\x86\Debug\GPS1Visual.exe
+C:\Users\Thiago\Desktop\GPSVisualComInstaller\GPS1Visual\obj\x86\Debug\GPS1Visual.pdb
+C:\Users\Thiago\Desktop\GPSVisualComInstaller\GPS1Visual\bin\Debug\GPS1Visual.exe
+C:\Users\Thiago\Desktop\GPSVisualComInstaller\GPS1Visual\bin\Debug\GPS1Visual.pdb
+C:\Users\Thiago\Desktop\GPSVisualComInstaller\GPS1Visual\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Thiago\Desktop\GPSVisualComInstaller\GPS1Visual\obj\x86\Debug\GPS1Visual.Form1.resources
+C:\Users\Thiago\Desktop\GPSVisualComInstaller\GPS1Visual\obj\x86\Debug\GPS1Visual.FormCadastro.resources
+C:\Users\Thiago\Desktop\GPSVisualComInstaller\GPS1Visual\obj\x86\Debug\GPS1Visual.FormMapa.resources
+C:\Users\Thiago\Desktop\GPSVisualComInstaller\GPS1Visual\obj\x86\Debug\GPS1Visual.FormPesquisaAltera.resources
+C:\Users\Thiago\Desktop\GPSVisualComInstaller\GPS1Visual\obj\x86\Debug\GPS1Visual.Properties.Resources.resources
+C:\Users\Thiago\Desktop\GPSVisualComInstaller\GPS1Visual\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Thiago\Desktop\GPSVisualComInstaller\GPS1Visual\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Thiago\Desktop\GPSVisualComInstaller\GPS1Visual\bin\Debug\GPS1Visual.exe.config
+C:\Users\Thiago\Desktop\GPSVisualComInstaller\GPS1Visual\obj\x86\Debug\GPS1Visual.Alarme.resources
+C:\Users\Thiago\Desktop\GPSVisualComInstaller - Cópia\GPS1Visual\bin\Debug\GPS1Visual.exe.config
+C:\Users\Thiago\Desktop\GPSVisualComInstaller - Cópia\GPS1Visual\obj\x86\Debug\GPS1Visual.exe
+C:\Users\Thiago\Desktop\GPSVisualComInstaller - Cópia\GPS1Visual\obj\x86\Debug\GPS1Visual.pdb
+C:\Users\Thiago\Desktop\GPSVisualComInstaller - Cópia\GPS1Visual\bin\Debug\GPS1Visual.exe
+C:\Users\Thiago\Desktop\GPSVisualComInstaller - Cópia\GPS1Visual\bin\Debug\GPS1Visual.pdb
+C:\Users\Thiago\Desktop\GPSVisualComInstaller - Cópia\GPS1Visual\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Thiago\Desktop\GPSVisualComInstaller - Cópia\GPS1Visual\obj\x86\Debug\GPS1Visual.Alarme.resources
+C:\Users\Thiago\Desktop\GPSVisualComInstaller - Cópia\GPS1Visual\obj\x86\Debug\GPS1Visual.Form1.resources
+C:\Users\Thiago\Desktop\GPSVisualComInstaller - Cópia\GPS1Visual\obj\x86\Debug\GPS1Visual.FormCadastro.resources
+C:\Users\Thiago\Desktop\GPSVisualComInstaller - Cópia\GPS1Visual\obj\x86\Debug\GPS1Visual.FormMapa.resources
+C:\Users\Thiago\Desktop\GPSVisualComInstaller - Cópia\GPS1Visual\obj\x86\Debug\GPS1Visual.FormPesquisaAltera.resources
+C:\Users\Thiago\Desktop\GPSVisualComInstaller - Cópia\GPS1Visual\obj\x86\Debug\GPS1Visual.Properties.Resources.resources
+C:\Users\Thiago\Desktop\GPSVisualComInstaller - Cópia\GPS1Visual\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Thiago\Desktop\GPSVisualComInstaller - Cópia\GPS1Visual\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Thiago\Desktop\GPSVisualComInstaller 01 04 11\GPS1Visual\bin\Debug\GPS1Visual.exe.config
+C:\Users\Thiago\Desktop\GPSVisualComInstaller 01 04 11\GPS1Visual\obj\x86\Debug\GPS1Visual.exe
+C:\Users\Thiago\Desktop\GPSVisualComInstaller 01 04 11\GPS1Visual\obj\x86\Debug\GPS1Visual.pdb
+C:\Users\Thiago\Desktop\GPSVisualComInstaller 01 04 11\GPS1Visual\bin\Debug\GPS1Visual.exe
+C:\Users\Thiago\Desktop\GPSVisualComInstaller 01 04 11\GPS1Visual\bin\Debug\GPS1Visual.pdb
+C:\Users\Thiago\Desktop\GPSVisualComInstaller 01 04 11\GPS1Visual\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Thiago\Desktop\GPSVisualComInstaller 01 04 11\GPS1Visual\obj\x86\Debug\GPS1Visual.Alarme.resources
+C:\Users\Thiago\Desktop\GPSVisualComInstaller 01 04 11\GPS1Visual\obj\x86\Debug\GPS1Visual.Form1.resources
+C:\Users\Thiago\Desktop\GPSVisualComInstaller 01 04 11\GPS1Visual\obj\x86\Debug\GPS1Visual.FormCadastro.resources
+C:\Users\Thiago\Desktop\GPSVisualComInstaller 01 04 11\GPS1Visual\obj\x86\Debug\GPS1Visual.FormMapa.resources
+C:\Users\Thiago\Desktop\GPSVisualComInstaller 01 04 11\GPS1Visual\obj\x86\Debug\GPS1Visual.FormPesquisaAltera.resources
+C:\Users\Thiago\Desktop\GPSVisualComInstaller 01 04 11\GPS1Visual\obj\x86\Debug\GPS1Visual.Properties.Resources.resources
+C:\Users\Thiago\Desktop\GPSVisualComInstaller 01 04 11\GPS1Visual\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Thiago\Desktop\GPSVisualComInstaller 01 04 11\GPS1Visual\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Thiago\Desktop\GPSVisualComInstaller Final\GPS1Visual\bin\Debug\GPS1Visual.exe.config
+C:\Users\Thiago\Desktop\GPSVisualComInstaller Final\GPS1Visual\obj\x86\Debug\GPS1Visual.exe
+C:\Users\Thiago\Desktop\GPSVisualComInstaller Final\GPS1Visual\obj\x86\Debug\GPS1Visual.pdb
+C:\Users\Thiago\Desktop\GPSVisualComInstaller Final\GPS1Visual\bin\Debug\GPS1Visual.exe
+C:\Users\Thiago\Desktop\GPSVisualComInstaller Final\GPS1Visual\bin\Debug\GPS1Visual.pdb
+C:\Users\Thiago\Desktop\GPSVisualComInstaller Final\GPS1Visual\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Thiago\Desktop\GPSVisualComInstaller Final\GPS1Visual\obj\x86\Debug\GPS1Visual.Alarme.resources
+C:\Users\Thiago\Desktop\GPSVisualComInstaller Final\GPS1Visual\obj\x86\Debug\GPS1Visual.Form1.resources
+C:\Users\Thiago\Desktop\GPSVisualComInstaller Final\GPS1Visual\obj\x86\Debug\GPS1Visual.FormCadastro.resources
+C:\Users\Thiago\Desktop\GPSVisualComInstaller Final\GPS1Visual\obj\x86\Debug\GPS1Visual.FormMapa.resources
+C:\Users\Thiago\Desktop\GPSVisualComInstaller Final\GPS1Visual\obj\x86\Debug\GPS1Visual.FormPesquisaAltera.resources
+C:\Users\Thiago\Desktop\GPSVisualComInstaller Final\GPS1Visual\obj\x86\Debug\GPS1Visual.Properties.Resources.resources
+C:\Users\Thiago\Desktop\GPSVisualComInstaller Final\GPS1Visual\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Thiago\Desktop\GPSVisualComInstaller Final\GPS1Visual\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Thiago\Desktop\GPSVisualComInstaller Final Sem Placa\GPS1Visual\bin\Debug\GPS1Visual.exe.config
+C:\Users\Thiago\Desktop\GPSVisualComInstaller Final Sem Placa\GPS1Visual\obj\x86\Debug\GPS1Visual.exe
+C:\Users\Thiago\Desktop\GPSVisualComInstaller Final Sem Placa\GPS1Visual\obj\x86\Debug\GPS1Visual.pdb
+C:\Users\Thiago\Desktop\GPSVisualComInstaller Final Sem Placa\GPS1Visual\bin\Debug\GPS1Visual.exe
+C:\Users\Thiago\Desktop\GPSVisualComInstaller Final Sem Placa\GPS1Visual\bin\Debug\GPS1Visual.pdb
+C:\Users\Thiago\Desktop\GPSVisualComInstaller Final Sem Placa\GPS1Visual\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Thiago\Desktop\GPSVisualComInstaller Final Sem Placa\GPS1Visual\obj\x86\Debug\GPS1Visual.Alarme.resources
+C:\Users\Thiago\Desktop\GPSVisualComInstaller Final Sem Placa\GPS1Visual\obj\x86\Debug\GPS1Visual.Form1.resources
+C:\Users\Thiago\Desktop\GPSVisualComInstaller Final Sem Placa\GPS1Visual\obj\x86\Debug\GPS1Visual.FormCadastro.resources
+C:\Users\Thiago\Desktop\GPSVisualComInstaller Final Sem Placa\GPS1Visual\obj\x86\Debug\GPS1Visual.FormMapa.resources
+C:\Users\Thiago\Desktop\GPSVisualComInstaller Final Sem Placa\GPS1Visual\obj\x86\Debug\GPS1Visual.FormPesquisaAltera.resources
+C:\Users\Thiago\Desktop\GPSVisualComInstaller Final Sem Placa\GPS1Visual\obj\x86\Debug\GPS1Visual.Properties.Resources.resources
+C:\Users\Thiago\Desktop\GPSVisualComInstaller Final Sem Placa\GPS1Visual\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Thiago\Desktop\GPSVisualComInstaller Final Sem Placa\GPS1Visual\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Thiago\Desktop\GPS Tracker\GPS1Visual\bin\Debug\GPS1Visual.exe.config
+C:\Users\Thiago\Desktop\GPS Tracker\GPS1Visual\obj\x86\Debug\GPS1Visual.exe
+C:\Users\Thiago\Desktop\GPS Tracker\GPS1Visual\obj\x86\Debug\GPS1Visual.pdb
+D:\Programas C#\GPS Tracker\GPS1Visual\bin\Debug\GPS1Visual.exe.config
+D:\Programas C#\GPS Tracker\GPS1Visual\obj\x86\Debug\GPS1Visual.exe
+D:\Programas C#\GPS Tracker\GPS1Visual\obj\x86\Debug\GPS1Visual.pdb
+D:\Programas C#\GPS Tracker\GPS1Visual\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Programas C#\GPS Tracker\GPS1Visual\obj\x86\Debug\GPS1Visual.Alarme.resources
+D:\Programas C#\GPS Tracker\GPS1Visual\obj\x86\Debug\GPS1Visual.Form1.resources
+D:\Programas C#\GPS Tracker\GPS1Visual\obj\x86\Debug\GPS1Visual.FormCadastro.resources
+D:\Programas C#\GPS Tracker\GPS1Visual\obj\x86\Debug\GPS1Visual.FormMapa.resources
+D:\Programas C#\GPS Tracker\GPS1Visual\obj\x86\Debug\GPS1Visual.FormPesquisaAltera.resources
+D:\Programas C#\GPS Tracker\GPS1Visual\obj\x86\Debug\GPS1Visual.Properties.Resources.resources
+D:\Programas C#\GPS Tracker\GPS1Visual\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Programas C#\GPS Tracker\GPS1Visual\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Programas C#\GPS Tracker\GPS1Visual\bin\Debug\GPS1Visual.exe.config
+E:\Programas C#\GPS Tracker\GPS1Visual\obj\x86\Debug\GPS1Visual.exe
+E:\Programas C#\GPS Tracker\GPS1Visual\obj\x86\Debug\GPS1Visual.pdb
+D:\Trabalhos\C#\GPS Tracker\GPS1Visual\bin\Debug\GPS1Visual.exe.config
+D:\Trabalhos\C#\GPS Tracker\GPS1Visual\obj\x86\Debug\GPS1Visual.exe
+D:\Trabalhos\C#\GPS Tracker\GPS1Visual\obj\x86\Debug\GPS1Visual.pdb
+D:\Trabalhos\C#\GPS Tracker\GPS1Visual\obj\x86\Debug\GPS1Visual.csprojResolveAssemblyReference.cache
+D:\Trabalhos\C#\GPS Tracker\GPS1Visual\obj\x86\Debug\GPS1Visual.Alarme.resources
+D:\Trabalhos\C#\GPS Tracker\GPS1Visual\obj\x86\Debug\GPS1Visual.Form1.resources
+D:\Trabalhos\C#\GPS Tracker\GPS1Visual\obj\x86\Debug\GPS1Visual.FormCadastro.resources
+D:\Trabalhos\C#\GPS Tracker\GPS1Visual\obj\x86\Debug\GPS1Visual.FormMapa.resources
+D:\Trabalhos\C#\GPS Tracker\GPS1Visual\obj\x86\Debug\GPS1Visual.FormPesquisaAltera.resources
+D:\Trabalhos\C#\GPS Tracker\GPS1Visual\obj\x86\Debug\GPS1Visual.Properties.Resources.resources
+D:\Trabalhos\C#\GPS Tracker\GPS1Visual\obj\x86\Debug\GPS1Visual.csproj.GenerateResource.Cache
